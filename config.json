@@ -1,0 +1,6 @@
+{
+  "NAME": "test-jsonp-client",
+  "MAIN": "main",
+  "SRC": "src",
+  "DEST": "dest"
+}
